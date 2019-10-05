@@ -14,3 +14,10 @@
 声卡：瑞昱 @ 英特尔High Definition Audio 控制器
 
 网卡：瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 戴尔
+
+当前实验版本10.14.6，10.13应该也可以
+
+目前状态：
+网卡：OK
+声卡：OK
+显卡：OK(3GB显存)
