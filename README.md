@@ -2,10 +2,11 @@
  * @Author: li.zhaogang
  * @CreateDate: Do not edit
  * @LastEditors: li.zhaogang
- * @LastEditTime: 2020-04-03 09:39:53
+ * @LastEditTime: 2020-04-03 09:41:27
  -->
 # dell_Vostro_3670_i5-8400_opencore_efi
 - 适用机型：戴尔vostro 3670
+
 |项目|配置|
 |-:|:-|
 |处理器|英特尔Core i5-8400|
